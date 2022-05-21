@@ -1,0 +1,14 @@
+body{
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(43, 41, 41);
+    color:white;
+}
+.caixa{
+    border: 6px solid rgb(13, 13, 13);
+    border-radius: 10px;
+}
